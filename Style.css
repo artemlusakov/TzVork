@@ -39,6 +39,12 @@ nav{
     justify-content: space-between;
 }
 
+
+
+.clos-menu-links a:hover{
+    background-size: 100% 2px;
+}
+
 nav>ul>li a{
     color: #fff;
     font-family: "Roboto", sans-serif;
