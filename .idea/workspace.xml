@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3de31881-6ba5-41be-972c-425b119bcca6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +27,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "E:/TzVork",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -35,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719573749986</updated>
-      <workItem from="1719573751344" duration="199000" />
+      <workItem from="1719573751344" duration="552000" />
     </task>
     <servers />
   </component>
